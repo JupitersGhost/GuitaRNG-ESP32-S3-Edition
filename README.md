@@ -2,8 +2,6 @@
 
 <img src="guitaRNGlogo.png" width="220"/>
 
-# GuitaRNG
-
 ### Cryptographic Sound Guitar Entropy Harvester  
 **A Jupiter Labs Project**
 
